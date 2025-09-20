@@ -4,7 +4,7 @@ A passionate **Fullstack developer** with a love for building robust and scalabl
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@ A passionate **Fullstack developer** with a love for building robust and scalabl
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ProArash&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
