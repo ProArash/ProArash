@@ -8,7 +8,7 @@ A passionate **Software developer** with a love for building robust and scalable
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,ts,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,ts,docker,linux,golang" />
   </a>
 </p>
 
