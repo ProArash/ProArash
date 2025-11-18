@@ -14,16 +14,6 @@ A passionate **Software developer** with a love for building robust and scalable
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProArash&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProArash&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### ☕ Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of an amazing team.
