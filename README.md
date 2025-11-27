@@ -1,6 +1,6 @@
 # Hey, how you doing? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-A passionate **Software developer** with a love for building robust and scalable applications. I enjoy working across the stack to bring ideas to life.
+A passionate **Software Engineer** with a love for building robust and scalable applications. I enjoy working across the stack to bring ideas to life.
 
 ---
 
