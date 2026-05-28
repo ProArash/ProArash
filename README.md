@@ -1,10 +1,7 @@
-<p align="center">
-  #Knowledge is power
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,ts,docker,linux,golang" />
-  </a>
-</p>
+# Knowledge is power
 
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,ts,docker,linux,golang)](https://skillicons.dev)
+
+</div>
