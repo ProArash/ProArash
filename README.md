@@ -1,4 +1,6 @@
-Knowledge is power
+<p align="center">
+  #Knowledge is power
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
